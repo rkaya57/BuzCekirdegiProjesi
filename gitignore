@@ -1,0 +1,35 @@
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.log
+*.user
+*.userprefs
+
+# Build artifacts
+Build/
+
+# Ignore Mac specific files
+.DS_Store
+
+# Ignore Windows thumbnails
+Thumbs.db
+
+# Ignore backup files
+*.bak
+*.old
+
+# Ignore environment-specific config
+.env
+
+# Ignore Unreal-specific backup
+*.uasset.tmp
